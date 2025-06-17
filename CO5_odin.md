@@ -11,7 +11,7 @@ Exemplos breves.
 
 -----
 
-# História e surgimento da linguagem
+# ✅História e surgimento da linguagem
 
 ## história do projeto? 
 O projeto começou em uma noite no final de julho de 2016, quando Ginger Bill estava irritado com a programação em C++. A linguagem começou como um clone do Pascal (com begine ende mais), mas mudou rapidamente para se tornar algo diferente.
@@ -38,7 +38,7 @@ Toda a especificação da linguagem deveria ser possível de ser memorizada por 
 
 ----
 
-# Paradigma e domínio de aplicação (onde / para o que é utilizada?)
+# ✅Paradigma e domínio de aplicação (onde / para o que é utilizada?)
 
 ## A linguagem de programação Odin é mais utilizada
 nichos específicos, como desenvolvimento de jogos, sistemas de baixa latência e ferramentas de sistemas, onde o desempenho e o controle de baixo nível são cruciais. Não é uma linguagem mainstream como Python ou JavaScript, mas tem uma comunidade ativa e crescente nesses setores.   
@@ -51,27 +51,27 @@ Ferramentas de sistemas:
 Odin também é utilizada na criação de ferramentas de sistema, como compiladores, interpretadores e sistemas operacionais, onde o controle preciso sobre o hardware e a memória são importantes.   
 
 -----
-# Escopo, variáveis e tipos de dados; 
+# ✅Escopo, variáveis e tipos de dados; 
 
 ------
-# Estruturas de controle (decisão e repetição);
+# ✅Estruturas de controle (decisão e repetição);
 ----
 
-# Funções/métodos;  
+# ✅Funções/métodos;  
 
 -----
 
-# Características extras (como vantagens em relação às outras linguagens);  
+# ✅Características extras (como vantagens em relação às outras linguagens);  
 
 ----
 
-# Principais bibliotecas e frameworks;  
+# ✅Principais bibliotecas e frameworks;  
 ----
-# Curiosidades e cases de projetos que usam a linguagem.  
+# ✅Curiosidades e cases de projetos que usam a linguagem.  
 
 ----
 
-# Exemplos breves. 
+# ✅Exemplos breves. 
 
 ### Hellope! 
 Para começar este passeio, vamos começar com uma versão modificada do famoso programa “hello world”:
