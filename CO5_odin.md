@@ -10,6 +10,9 @@ Curiosidades e cases de projetos que usam a linguagem.
 Exemplos breves.  
 
 -----
+
+# História e surgimento da linguagem
+
 ### história do projeto? 
 O projeto começou em uma noite no final de julho de 2016, quando Ginger Bill estava irritado com a programação em C++. A linguagem começou como um clone do Pascal (com begine ende mais), mas mudou rapidamente para se tornar algo diferente.
 
@@ -20,7 +23,8 @@ A linguagem toma emprestado muito de (em ordem de filosofia e impacto): Pascal ,
 
 Niklaus Wirth e Rob Pike foram os ídolos do design da linguagem de programação durante todo este projeto
 
-----
+### O nome "Odin" para a linguagem
+O nome "Odin" para a linguagem de programação não tem uma origem diretamente ligada ao desenvolvimento da linguagem em si, mas sim uma inspiração na mitologia nórdica. O nome foi escolhido pelo criador da linguagem, Herb Sutter, que é um fã da mitologia nórdica e queria um nome que transmitisse força e poder, características associadas ao deus Odin. 
 
 ### Quais são os princípios orientadores por trás do design de Odin? 
 
@@ -32,7 +36,9 @@ O código é sobre expressar algoritmos, não o sistema de tipos
 Há conhecimento e sabedoria incorporados em linguagens de programação mais antigas
 Toda a especificação da linguagem deveria ser possível de ser memorizada por um mero mortal
 
-------
+----
+
+# Paradigma e domínio de aplicação (onde / para o que é utilizada?)
 
 ### A linguagem de programação Odin é mais utilizada
 nichos específicos, como desenvolvimento de jogos, sistemas de baixa latência e ferramentas de sistemas, onde o desempenho e o controle de baixo nível são cruciais. Não é uma linguagem mainstream como Python ou JavaScript, mas tem uma comunidade ativa e crescente nesses setores. 
@@ -45,7 +51,27 @@ Ferramentas de sistemas:
 Odin também é utilizada na criação de ferramentas de sistema, como compiladores, interpretadores e sistemas operacionais, onde o controle preciso sobre o hardware e a memória são importantes. 
 
 -----
+# Escopo, variáveis e tipos de dados; 
 
+------
+# Estruturas de controle (decisão e repetição);
+----
+
+# Funções/métodos;  
+
+-----
+
+# Características extras (como vantagens em relação às outras linguagens);  
+
+----
+
+# Principais bibliotecas e frameworks;  
+----
+# Curiosidades e cases de projetos que usam a linguagem.  
+
+----
+
+# Exemplos breves. 
 
 ### Hellope! 
 Para começar este passeio, vamos começar com uma versão modificada do famoso programa “hello world”:
