@@ -38,7 +38,7 @@ Toda a especificação da linguagem deveria ser possível de ser memorizada por 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-# Paradigma e domínio de aplicação (onde / para o que é utilizada?)
+#✅ Paradigma e domínio de aplicação (onde / para o que é utilizada?)
 
 ### A linguagem de programação Odin é mais utilizada
 nichos específicos, como desenvolvimento de jogos, sistemas de baixa latência e ferramentas de sistemas, onde o desempenho e o controle de baixo nível são cruciais. Não é uma linguagem mainstream como Python ou JavaScript, mas tem uma comunidade ativa e crescente nesses setores. 
@@ -51,7 +51,25 @@ Ferramentas de sistemas:
 Odin também é utilizada na criação de ferramentas de sistema, como compiladores, interpretadores e sistemas operacionais, onde o controle preciso sobre o hardware e a memória são importantes. 
 
 -----------------------------------------------------------------------------------------------------------------------
-# Escopo, variáveis e tipos de dados; 
+# ✅Escopo, variáveis e tipos de dados; 
+
+// Para começar este passeio, vamos começar com uma versão modificada do famoso programa “hello world”:
+
+// O core:prefixo é usado para indicar onde a importação deve procurar; isso é chamado de coleção de biblioteca. Se nenhum prefixo estiver presente, a importação procurará em relação ao arquivo atual.
+
+```
+package main
+
+import "core:fmt"
+
+main :: proc() {
+	fmt.println("Hellope!")
+```
+
+#  Criação de um pacote 
+
+Um pacote é um diretório de arquivos de código Odin, todos com a mesma declaração de pacote no topo, por exemplo package main, . Cada arquivo .odin deve ter o mesmo nome de pacote. Um diretório não pode conter mais de um pacote
+
 Números #
 Literais numéricos são escritos de forma semelhante à maioria das outras linguagens de programação. Um recurso útil no Odin é que sublinhados são permitidos para melhor legibilidade: 1_000_000_000(um bilhão). Um número que contém um ponto é um literal de ponto flutuante: 1.0e9(um bilhão). Se um literal numérico for sufixado com i, é um literal numérico imaginário: 2i(2 multiplicado pela raiz quadrada de -1).
 
@@ -124,7 +142,7 @@ y : int : 123
 z :: y + 7 // constant computations are possible
 ```
 -----------------------------------------------------------------------------------------------------------------------
-# Estruturas de controle (decisão e repetição);  
+#✅ Estruturas de controle (decisão e repetição);  
 
 ### Loop básico 
 
@@ -262,7 +280,7 @@ case 20..<30:
 }
 ```
 
-deferdeclaração #
+### defer declaração 
 
 
 Uma instrução defer adia a execução de uma instrução até o final do escopo em que ela está.
@@ -307,31 +325,32 @@ when ODIN_ARCH == .i386 {
 }
 ```
 
-### breakdeclaração 
+### break declaração 
 Um laço for ou uma instrução switch podem ser deixados prematuramente com uma breakinstrução. Eles deixam a construção mais interna, a menos que um rótulo de construção seja fornecido
 
 ### fallthrough statement 
 Odin’s switch is like the one in C or C++, except that Odin only runs the selected case. This means that a break statement is not needed at the end of each case. Another important difference is that the case values need not be integers nor constants.
-
-
-
 -----------------------------------------------------------------------------------------------------------------------
 
 # Funções/métodos;  
-
 
 -----------------------------------------------------------------------------------------------------------------------
 
 # Características extras (como vantagens em relação às outras linguagens);  
 
+—---------------------------------------------------------------------
+
+# Ambientes de desenvolvimento (IDES);  
+
 -----------------------------------------------------------------------------------------------------------------------
 
-# Principais bibliotecas e frameworks;  
+# ✅Principais bibliotecas e frameworks;  
+
 https://github.com/odin-lang/Odin/wiki/Odin-Libs
 
 
 -----------------------------------------------------------------------------------------------------------------------
-# Curiosidades sobre a Linguagem Odin:
+# ✅Curiosidades sobre a Linguagem Odin:
 
 ### ✅Nome da Linguagem 
 	O nome "Odin" foi escolhido como referência ao deus da mitologia nórdica, símbolo de força, sabedoria e poder.
@@ -355,33 +374,8 @@ Spall (Profiler)
 	Muito utilizada por desenvolvedores de jogos e motores gráficos para otimização de desempenho.
 
 
+Referencias:
 
------------------------------------------------------------------------------------------------------------------------
-
-# Exemplos breves. 
-
-### Hellope! 
-
-// Para começar este passeio, vamos começar com uma versão modificada do famoso programa “hello world”:
-
-// O core:prefixo é usado para indicar onde a importação deve procurar; isso é chamado de coleção de biblioteca. Se nenhum prefixo estiver presente, a importação procurará em relação ao arquivo atual.
-
-```
-package main
-
-import "core:fmt"
-
-main :: proc() {
-	fmt.println("Hellope!")
-```
-
-#  Criação de um pacote 
-
-Um pacote é um diretório de arquivos de código Odin, todos com a mesma declaração de pacote no topo, por exemplo package main, . Cada arquivo .odin deve ter o mesmo nome de pacote. Um diretório não pode conter mais de um pacote
-
-
-
-
-
-----
+https://odin-lang.org/docs/overview/
+https://github.com/odin-lang/Odin/wiki/Odin-Libs
 
