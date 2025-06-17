@@ -70,9 +70,6 @@ Odin também é utilizada na criação de ferramentas de sistema, como compilado
 # ✅Curiosidades e cases de projetos que usam a linguagem.  
 
 ----
-
-123123
-
 # ✅Exemplos breves. 
 
 ### Hellope! 
