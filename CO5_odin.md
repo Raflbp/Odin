@@ -353,7 +353,9 @@ https://github.com/odin-lang/Odin/wiki/Odin-Libs
 # ✅Curiosidades sobre a Linguagem Odin:
 
 ### ✅Nome da Linguagem 
-	O nome "Odin" foi escolhido como referência ao deus da mitologia nórdica, símbolo de força, sabedoria e poder.
+
+O nome "Odin" foi escolhido como referência ao deus da mitologia nórdica, símbolo de força, sabedoria e poder.  
+
 A escolha não teve relação direta com as funções da linguagem, mas sim com a ideia de um nome forte, marcante e culturalmente simbólico.
 	A linguagem não possui um mascote oficial. Seu logotipo é um símbolo abstrato, inspirado na arte nórdica, com traços que lembram nós vikings.
 Apesar de muitos na comunidade associarem o símbolo a uma serpente ou à Jörmungandr, oficialmente ele foi criado apenas por questões estéticas e de identidade visual.
