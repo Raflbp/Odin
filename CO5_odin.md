@@ -338,7 +338,7 @@ Odin’s switch is like the one in C or C++, except that Odin only runs the sele
 
 # Características extras (como vantagens em relação às outras linguagens);  
 
-—----
+------
 
 # Ambientes de desenvolvimento (IDES);  
 
