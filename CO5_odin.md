@@ -96,10 +96,9 @@ A instrução de atribuição atribui um novo valor a uma variável/local:
 ```
 x: int = 123 // declares a new variable `x` with type `int` and assigns a value to it
 x = 637 // assigns a new value to `x`
-
+```
 =é o operador de atribuição.
 Você pode atribuir múltiplas variáveis ​​com ele:
-
 ```
 x, y := 1, "hello" // declares `x` and `y` and infers the types from the assignments
 y, x = "bye", 5
