@@ -38,7 +38,7 @@ Toda a especificação da linguagem deveria ser possível de ser memorizada por 
 
 ------
 
-#✅ Paradigma e domínio de aplicação (onde / para o que é utilizada?)
+# ✅ Paradigma e domínio de aplicação (onde / para o que é utilizada?)
 
 ### A linguagem de programação Odin é mais utilizada
 nichos específicos, como desenvolvimento de jogos, sistemas de baixa latência e ferramentas de sistemas, onde o desempenho e o controle de baixo nível são cruciais. Não é uma linguagem mainstream como Python ou JavaScript, mas tem uma comunidade ativa e crescente nesses setores. 
@@ -70,7 +70,7 @@ main :: proc() {
 
 Um pacote é um diretório de arquivos de código Odin, todos com a mesma declaração de pacote no topo, por exemplo package main, . Cada arquivo .odin deve ter o mesmo nome de pacote. Um diretório não pode conter mais de um pacote
 
-Números #
+### Números 
 Literais numéricos são escritos de forma semelhante à maioria das outras linguagens de programação. Um recurso útil no Odin é que sublinhados são permitidos para melhor legibilidade: 1_000_000_000(um bilhão). Um número que contém um ponto é um literal de ponto flutuante: 1.0e9(um bilhão). Se um literal numérico for sufixado com i, é um literal numérico imaginário: 2i(2 multiplicado pela raiz quadrada de -1).
 
 Literais binários são prefixados com 0b, literais octais com 0o, e literais hexadecimais com 0x. Um zero à esquerda não produz uma constante octal (ao contrário de C).
@@ -305,7 +305,7 @@ main :: proc() {
 }
 ```
 
-whendeclaração #
+### when declaração 
 A whendeclaração é quase idêntica à ifdeclaração, mas com algumas diferenças:
 
 Cada condição deve ser uma expressão constante, pois uma wheninstrução é avaliada em tempo de compilação.
