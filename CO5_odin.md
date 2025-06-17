@@ -142,7 +142,7 @@ y : int : 123
 z :: y + 7 // constant computations are possible
 ```
 -----------------------------------------------------------------------------------------------------------------------
-#✅ Estruturas de controle (decisão e repetição);  
+# ✅Estruturas de controle (decisão e repetição);  
 
 ### Loop básico 
 
