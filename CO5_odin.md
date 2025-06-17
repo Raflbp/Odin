@@ -373,9 +373,10 @@ Spall (Profiler)
 	Ferramenta de profiling e análise de performance.
 	Muito utilizada por desenvolvedores de jogos e motores gráficos para otimização de desempenho.
 
+---------------------------------
 
-Referencias:
+# Referencias:
 
-https://odin-lang.org/docs/overview/
-https://github.com/odin-lang/Odin/wiki/Odin-Libs
+https://odin-lang.org/docs/overview/  
+https://github.com/odin-lang/Odin/wiki/Odin-Libs  
 
