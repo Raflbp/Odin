@@ -11,7 +11,7 @@ Principais bibliotecas e frameworks;
 Curiosidades e cases de projetos que usam a linguagem.  
 Exemplos breves.  
 
----------------------------------------------------------------------------------------------------------------------------
+----
 
 # História e surgimento da linguagem
 
@@ -36,7 +36,7 @@ Há conhecimento e sabedoria incorporados em linguagens de programação mais an
 Toda a especificação da linguagem deveria ser possível de ser memorizada por um mero mortal
 
 
------------------------------------------------------------------------------------------------------------------------
+------
 
 #✅ Paradigma e domínio de aplicação (onde / para o que é utilizada?)
 
@@ -50,7 +50,7 @@ A linguagem é adequada para sistemas que exigem respostas rápidas e previsíve
 Ferramentas de sistemas:
 Odin também é utilizada na criação de ferramentas de sistema, como compiladores, interpretadores e sistemas operacionais, onde o controle preciso sobre o hardware e a memória são importantes. 
 
------------------------------------------------------------------------------------------------------------------------
+------
 # ✅Escopo, variáveis e tipos de dados; 
 
 // Para começar este passeio, vamos começar com uma versão modificada do famoso programa “hello world”:
@@ -141,7 +141,7 @@ Constantes podem ser explicitamente digitadas como uma declaração de variável
 y : int : 123
 z :: y + 7 // constant computations are possible
 ```
------------------------------------------------------------------------------------------------------------------------
+------
 # ✅Estruturas de controle (decisão e repetição);  
 
 ### Loop básico 
@@ -330,19 +330,19 @@ Um laço for ou uma instrução switch podem ser deixados prematuramente com uma
 
 ### fallthrough statement 
 Odin’s switch is like the one in C or C++, except that Odin only runs the selected case. This means that a break statement is not needed at the end of each case. Another important difference is that the case values need not be integers nor constants.
------------------------------------------------------------------------------------------------------------------------
+------
 
 # Funções/métodos;  
 
------------------------------------------------------------------------------------------------------------------------
+-----
 
 # Características extras (como vantagens em relação às outras linguagens);  
 
-—---------------------------------------------------------------------
+—----
 
 # Ambientes de desenvolvimento (IDES);  
 
------------------------------------------------------------------------------------------------------------------------
+-----
 
 # ✅Principais bibliotecas e frameworks;  
 
