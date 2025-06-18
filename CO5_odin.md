@@ -1,18 +1,3 @@
-CO5_odin
-
-✅História e surgimento da linguagem;  
-✅Paradigma e domínio de aplicação (onde / para o que é utilizada?);  
-Escopo, variáveis e tipos de dados;  
-Estruturas de controle (decisão e repetição);  
-Funções/métodos;  
-Características extras (como vantagens em relação às outras linguagens);  
-Ambientes de desenvolvimento (IDES);  
-Principais bibliotecas e frameworks;  
-Curiosidades e cases de projetos que usam a linguagem.  
-Exemplos breves.  
-
-----
-
 # História e surgimento da linguagem
 
 ### ✅história do projeto? 
